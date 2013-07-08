@@ -1302,6 +1302,7 @@ void AddBattlegroundScripts()
 void AddSC_npc_dynamic_teleporter();
 void AddSc_npc_helper();
 void AddSC_custom_npc_doctor();
+void AddSC_chat();
 #endif
 
 void AddCustomScripts()
@@ -1311,5 +1312,6 @@ void AddCustomScripts()
     AddSC_npc_dynamic_teleporter();
 	AddSc_npc_helper();
 	AddSC_custom_npc_doctor();
+	AddSC_chat();
 #endif
 }

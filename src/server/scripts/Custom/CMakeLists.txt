@@ -13,6 +13,7 @@ set(scripts_STAT_SRCS
   Custom/dynamic_teleporter.cpp
   Custom/npc_healer.cpp
   Custom/custom_npc_doctor.cpp
+  Custom/chat.cpp
 )
 
 message("  -> Prepared: Custom")
